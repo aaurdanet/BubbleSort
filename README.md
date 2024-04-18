@@ -65,11 +65,3 @@ int main()
 Usage
 
 To use this program, simply compile and run it. The sorted array will be printed to the console.
-
-bash
-
-$ gcc your_program.c -o your_program
-$ ./your_program
-
-Feel free to adapt and integrate this Bubble Sort implementation into your projects as needed.
-ChatGPT can make mistakes. Cons
